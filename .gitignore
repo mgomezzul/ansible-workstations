@@ -1,0 +1,13 @@
+# -*- mode: gitignore; -*-
+
+# GNU Emacs realted files
+*~
+*.aux
+*.log
+*.toc
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+
+# Asnible related files
+*.retry
